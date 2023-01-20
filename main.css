@@ -1,0 +1,40 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background: darkblue;
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cabin Sketch', cursive;
+}
+
+p {
+    font-family: 'Sofia Sans Extra Condensed', sans-serif;
+}
+/* Normal stuff and stylings under this line*/
+h1 {
+    color: paleturquoise;
+    font-size: 55px;
+}
+
+p {
+    color: lavender;
+    font-size: 20px;
+}
+
+li {
+    list-style: none;
+    color: lavender;
+    font-family: 'Sofia Sans Extra Condensed', sans-serif;
+}
+
+h4 {
+    color: paleturquoise;
+    
+}
+
+img {
+    width: 400px;
+    padding-top: 25px;
+}
